@@ -1,0 +1,38 @@
+#forgot {
+
+    color: rgb(157, 152, 152);
+    background-color: transparent;
+    border: none;
+}
+
+#forgot:hover {
+    opacity: 90%;
+    transition-delay: 1s;
+    text-decoration: underline;
+}
+
+#new {
+    background-color: rgb(51, 218, 118);
+    color: white;
+}
+
+#new:hover {
+
+    background-color: rgb(43, 178, 97);
+}
+
+#main_label {
+    font-size: 18px;
+}
+
+.container {
+    height: 100vh; /* Set container height to full viewport height */
+    width: 80%;
+}
+
+#alt {
+    font-size: 12px;
+}
+
+
+
